@@ -1,6 +1,6 @@
 # INTERN_PROJECT
 
-**Palour a Beauty and Spa Website with Azure Bot*
+**Palour a Beauty and Spa Website with Azure Bot**
 
 This is 5 Page Palour a Beauty and Spa Front End website design.
 Web Technologies used: HTML, CSS, JS, Bootstrap
@@ -10,12 +10,14 @@ Industry :
 Health
 Project Title :
 Palour a Beauty and Spa Website with Azure Bot.
+
 **Project link** - https://mango-flower-0413b1800.2.azurestaticapps.net
 **Project demo video link** - https://youtu.be/d3KK1ibxrJw
 
 **Primary Azure Technology :**
 Azure Bot Service
 Static Web Apps
+
 **Features**
 - Interactive and responsive UI.
 -	Has many graphical and innovative effects.
