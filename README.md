@@ -15,8 +15,8 @@ Palour a Beauty and Spa Website with Azure Bot.
 **Project demo video link** - https://youtu.be/d3KK1ibxrJw
 
 **Primary Azure Technology :**
-Azure Bot Service
-Static Web Apps
+- Azure Bot Service
+- Static Web Apps
 
 **Features**
 - Interactive and responsive UI.
