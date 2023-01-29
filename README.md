@@ -24,7 +24,7 @@ Palour a Beauty and Spa Website with Azure Bot.
 -	Has collection of web pages including home , about , contact , services , bot pages.
 -	User can know about health and Beauty information through this web site.
 -	Included the  feedback survey form to increase the scope of improvement.
--	
+	
 **Screenshots**
 # Home page![Parlour a Beauty and Spa Category Responsive Web Template _ Home - Google Chrome 29-01-2023 20_38_01](https://user-images.githubusercontent.com/111973710/215335927-b1518f34-ac9f-4c5b-832f-b048eef17363.png)
 # About page
